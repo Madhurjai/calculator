@@ -1,0 +1,80 @@
+.container{
+    width: 400px;
+    margin: 150px auto;
+    border-radius: 6px;
+    background-color: black;
+}
+.display{
+    width : 361px ;
+    padding-top: 29px;
+    padding-left: 40px;
+    background-color: rgb(95, 70, 70);
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+.one p{
+    padding: 10px 42.4px;
+    margin: 0px;
+    background-color: rgb(173, 155, 155);
+    border: 1px solid grey;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+.two p{
+    padding: 10px 45.2px;
+    margin: 0px;
+    background-color: rgb(173, 155, 155);
+    border: 1px solid grey;
+}
+.three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+.three p{
+    padding: 10px 45.6px;
+    margin: 0px;
+    background-color: rgb(173, 155, 155);
+    border: 1px solid grey;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+.four p{
+    padding: 10px 45.1px;
+    margin: 0px;
+    background-color: rgb(173, 155, 155);
+    border: 1px solid grey;
+}
+
+.five{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    width: 400px;
+}
+.five p{
+    padding: 10px 55.8px;
+    margin: 0px;
+    background-color: rgb(173, 155, 155);
+    border: 1px solid grey;
+}
+.zero{
+   width: 55px;
+}
+.one_c{
+    background-color: rgb(214, 214, 44);
+}
